@@ -16,7 +16,6 @@
   <li>Css</li>
   <li>JavaScript</li>
   <li>ReactJS</li>
-  <li>NextJs</li>
   <li>TailwindCSS</li>
 </ul>
 <p>Back-End</p>
